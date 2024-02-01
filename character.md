@@ -40,3 +40,7 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 - Iwisa
 - 7 days rations
 - 4 coins
+
+### Mission
+- Go find meteor strike in mine
+- Kill apparation that feeds on spirits
