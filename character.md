@@ -19,8 +19,8 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 ### Traits
 
 - Shaman: You have made a pact with two spirits (see p. 29). +1 WIS.
-    - **Disease Spirit**: The target is plagued with a non-lethal but debilitating disease, forcing them to be bedridden until a proper cure is found. On a roll of 1 the disease is contagious.
     - **Fire Spirit**: An existing fire can be manipulated: doubled in size, given any shape or form, moved around, etc. It can inflict d6 damage (and then Ud6 ongoing damage). A roll of 1 makes the target fire die.
+    - **Disease Spirit**: The target is plagued with a non-lethal but debilitating disease, forcing them to be bedridden until a proper cure is found. On a roll of 1 the disease is contagious.
 - **Scout**: You get Advantage on your Initiative rolls. +1 WIS.
 - **Berserker**: When you go berserk, add a d6 to the damage you deal. The damage you receive is divided by 2. Your rage stops when you roll a 1 on the d6. You need a long rest to be able to go berserk again. +1 STR.
 
@@ -46,4 +46,4 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 - Kill apparation that feeds on spirits
 
 ### Current Status:
-- Doom Die: D4
+- Doom Die: Depleted
