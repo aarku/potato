@@ -38,6 +38,7 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 - Worn clothes (singed but sturdy)
 - Chakram
 - Iwisa
+- Mining pick
 - 7 days rations
 - 4 coins
 
