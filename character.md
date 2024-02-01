@@ -3,12 +3,12 @@
 ## Stats
 
 - HP: 9
-- Strength: **10** (+1)
+- Strength: **11**
 - Dexterity: **9**
 - Constitution: **9**
-- Intelligence: 10
-- Wisdom: 12 (+2)
-- Charisma: 11 ✨
+- Intelligence: **10**
+- Wisdom: **14**
+- Charisma: **11** ✨
 
 ### Background - Barbarian
 
