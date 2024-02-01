@@ -44,3 +44,6 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 ### Mission
 - Go find meteor strike in mine
 - Kill apparation that feeds on spirits
+
+### Current Status:
+- Doom Die: D4
