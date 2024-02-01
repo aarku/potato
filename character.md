@@ -2,13 +2,15 @@
 
 ## Stats
 
-- HP: 9
-- Strength: **11**
-- Dexterity: **9**
-- Constitution: **9**
-- Intelligence: **10**
-- Wisdom: **14**
-- Charisma: **11** ✨
+| Stat | Amount |
+| ---- | ------ |
+| HP   | 9      |
+| Str  | 11     |
+| Dex  | 9      |
+| Con  | 9      |
+| Int  | 10     |
+| Wis  | 14     |
+| Cha  | 11     |
 
 ### Background - Barbarian
 
@@ -17,20 +19,24 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 ### Traits
 
 - Shaman: You have made a pact with two spirits (see p. 29). +1 WIS.
-- Scout: You get Advantage on your Initiative rolls. +1 WIS.
-- Berserker: When you go berserk, add a d6 to the damage you deal. The damage you receive is divided by 2. Your rage stops when you roll a 1 on the d6. You need a long rest to be able to go berserk again. +1 STR.
+    - **Disease Spirit**: The target is plagued with a non-lethal but debilitating disease, forcing them to be bedridden until a proper cure is found. On a roll of 1 the disease is contagious.
+    - **Fire Spirit**: An existing fire can be manipulated: doubled in size, given any shape or form, moved around, etc. It can inflict d6 damage (and then Ud6 ongoing damage). A roll of 1 makes the target fire die.
+- **Scout**: You get Advantage on your Initiative rolls. +1 WIS.
+- **Berserker**: When you go berserk, add a d6 to the damage you deal. The damage you receive is divided by 2. Your rage stops when you roll a 1 on the d6. You need a long rest to be able to go berserk again. +1 STR.
 
 ### Abilities
 
-- Doom Dice: Fate whispers on UD6s (details unknown...)
-- Chakram: A spinning disc of fury (d6 damage)
-- Iwisa: A trusty weapon, its secrets yet to unfold (d4 damage)
-- Cunning Mind: 25 coins, hidden amongst the ashes
+| Ability     | Description                                                                                                                                                                                                                                                                                                           |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Doom Dice   | D6                                                                                                                                                                                                                                                                                                                    |
+| Use Chakram | D6                                                                                                                                                                                                                                                                                                                    |
+| Use Iwisa   | D6                                                                                                                                                                                                                                                                                                                    |
+| Call Spirit | Roll your Doom die, with Disadvantage if it isn't the first time you have summoned a spirit today (this resets after a long rest). Spirit use is more open-ended than any other type of power. Each spirit has its own guidelines; the goal is to help players make good use of their powers without going overboard. |
 
 ### Inventory
 
 - Worn clothes (singed but sturdy)
-- Chakram (whistles through the air)
-- Iwisa (waits to be unleashed)
+- Chakram
+- Iwisa
 - 7 days rations
-- 4 coins (whispers of past lives?)
+- 4 coins
