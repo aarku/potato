@@ -1,40 +1,36 @@
-# Potato Ashwalker
+# 🥔🔥 Potato Ashwalker 🔥🥔
 
-HP: 9 (but this spud is tough as baked!)
+## Stats
 
-Strength: 10 (+1) (Ready to rise and smash!)
+- HP: 9
+- Strength: **10** (+1)
+- Dexterity: **9**
+- Constitution: **9**
+- Intelligence: 10
+- Wisdom: 12 (+2)
+- Charisma: 11 ✨
 
-Dexterity: 9 ‍♀️ (Dodging flames since birth!)
+### Background - Barbarian
 
-Constitution: 9 ️ (Thick skin, fire-forged spirit!)
+Born not of flesh and blood, but within a wicker effigy destined for flames. This Potato Ashwalker emerged, defying death and embracing the primal power of fire.
 
-Intelligence: 10 (Wiser than your average root vegetable!)
+### Traits
 
-Wisdom: 12 (+2) (Guided by whispers of ancestors and spirits!)
+    - Shaman: You have made a pact with two spirits (see p. 29). +1 WIS.
+    - Scout: You get Advantage on your Initiative rolls. +1 WIS.
+    - Berserker: When you go berserk, add a d6 to the damage you deal. The damage you receive is divided by 2. Your rage stops when you roll a 1 on the d6. You need a long rest to be able to go berserk again. +1 STR.
 
-Charisma: 11 ✨ (Charms as fiery as their birth!)
-From Ashes They Rose
-
-Background: Born not of flesh and blood, but within a wicker effigy destined for flames. This Potato Ashwalker emerged, defying death and embracing the primal power of fire.
-
-Traits:
-
-    Shaman: Whispers of spirits guide them, granting wisdom (+1 WIS).
-    Scout: Ever alert, they dance through danger with keen reflexes (+1 WIS).
-    Berserker: Unleashing primal rage, they become a whirlwind of destruction (d6 bonus damage, halved incoming damage) - but beware the fury's fleeting nature (d6 rage timer)! (+1 STR)
-
-Abilities:
+### Abilities
 
     Doom Dice: Fate whispers on UD6s (details unknown...)
     Chakram: A spinning disc of fury (d6 damage)
     Iwisa: A trusty weapon, its secrets yet to unfold (d4 damage)
     Cunning Mind: 25 coins, hidden amongst the ashes
 
-Inventory:
+### Inventory
 
     Worn clothes (singed but sturdy)
     Chakram (whistles through the air)
     Iwisa (waits to be unleashed)
-    25 coins (whispers of past lives?)
-
-This Potato Ashwalker is a force to be reckoned with, a beacon of resilience born from flames. What adventures await them? What mysteries lie within their doom dice and the enigmatic Iwisa? The journey begins...
+    7 days rations
+    4 coins (whispers of past lives?)
