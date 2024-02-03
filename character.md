@@ -44,6 +44,7 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 - 1x Prophets Thistle
 - 4x Angel Tail
 - Engraved long bow, 20x arrows
+- 100 coin
 
 ### Mission
 - Go find meteor strike in mine
