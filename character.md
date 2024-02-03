@@ -39,8 +39,11 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 - Chakram
 - Iwisa
 - Mining pick
-- 6 days rations
-- 4 coins
+- Light Armor
+- Shield
+- 1x Prophets Thistle
+- 4x Angel Tail
+- Engraved long bow, 20x arrows
 
 ### Mission
 - Go find meteor strike in mine
@@ -48,4 +51,4 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 - Kill apparation that feeds on spirits
 
 ### Current Status:
-- Doom Die: Depleted
+- Doom Die: D6
