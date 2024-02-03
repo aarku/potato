@@ -4,10 +4,10 @@
 
 | Stat | Amount |
 | ---- | ------ |
-| HP   | 9      |
+| HP   | 11     |
 | Str  | 11     |
 | Dex  | 9      |
-| Con  | 9      |
+| Con  | 10     |
 | Int  | 10     |
 | Wis  | 14     |
 | Cha  | 11     |
@@ -49,6 +49,10 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 - Go find meteor strike in mine
     - Found wood in crater, lit and waiting for it to burn.
 - Kill apparation that feeds on spirits
+- Scare corrupt inquisitor straight
 
 ### Current Status:
 - Doom Die: D6
+
+### Adventures
+- Greed's Blight Mine aka COVID-AU
