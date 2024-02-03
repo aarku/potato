@@ -44,6 +44,7 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 
 ### Mission
 - Go find meteor strike in mine
+    - Found wood in crater, lit and waiting for it to burn.
 - Kill apparation that feeds on spirits
 
 ### Current Status:
