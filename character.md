@@ -39,7 +39,7 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 - Chakram
 - Iwisa
 - Mining pick
-- 7 days rations
+- 6 days rations
 - 4 coins
 
 ### Mission
