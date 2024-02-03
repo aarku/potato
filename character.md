@@ -53,6 +53,7 @@ Born not of flesh and blood, but within a wicker effigy destined for flames. Thi
 
 ### Current Status:
 - Doom Die: D6
+- Traveled to Needsmoregin
 
 ### Adventures
 - Greed's Blight Mine aka COVID-AU
